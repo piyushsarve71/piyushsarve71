@@ -1,18 +1,18 @@
-# 💫 About Me:
+# 💫 About Me
 
-👋 Hi, I'm Piyush Sarve! 
+👋 Hi, I'm **Piyush Sarve**! 
 
-🎓 I'm currently surviving the final year of my Data Science engineering degree while balancing real-world tech experience.
+🎓 Final year **Data Science Engineering** student balancing academic rigor with real-world technical experience.
 
-* 💼 **Internship:** Working as a Data Analytics Intern at **Widesoftech**.
-* 🚀 **Leadership:** Leading operations at **TechAlfa India** and managed roles at **Techfest IIT Bombay**.
-* ------+ **Collaborations:** Keen to collaborate on Data Science projects, Machine Learning models, and Hackathons (like CIH 3.0).
-* 🌱 **Learning:** Deep Diving into Deep Learning, Object-Oriented Programming (OOP), and Agentic AI concepts.
-* 💬 **Ask me about:** Data Analysis, Tableau, MySQL, AWS cloud solutions, or Operations Management.
+* 💼 **Internship:** Data Analytics Intern at **Widesoftech**
+* 🚀 **Leadership:** Operations Lead at **TechAlfa India** | Former Coordinator at **Techfest IIT Bombay**
+* 🤝 **Collaborations:** Open for Data Science projects, Machine Learning models, and Hackathons (like CIH 3.0)
+* 🌱 **Learning:** Deep Learning, Object-Oriented Programming (OOP), and Agentic AI concepts
+* 💬 **Ask me about:** Data Analysis, Tableau, MySQL, AWS cloud solutions, or Operations Management
 
 ---
 
-## 🌐 Socials:
+## 🌐 Connect with me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/piyush-sarve" target="_blank">
@@ -22,7 +22,7 @@
 
 ---
 
-## 💻 Tech Stack:
+## 💻 Tech Stack
 
 ### 🚀 Languages & Databases
 <p align="left">
@@ -36,7 +36,7 @@
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=piyushsarve71&show_icons=true&theme=gotham" alt="Piyush's GitHub Stats" />
