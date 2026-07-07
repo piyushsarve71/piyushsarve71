@@ -1,206 +1,31 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Piyush%20Sarve&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Student%20%7C%20Aspiring%20Developer%20%7C%20Nagpur&descAlignY=55&descAlign=50" width="100%"/>
-
-<a href="https://www.linkedin.com/in/piyush-sarve-6a7a623b9/">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Aspiring+Software+Developer;Data+Analytics+%7C+Web+Dev+%7C+Deep+Learning;Hackathon+Enthusiast+%F0%9F%9A%80;Always+learning%2C+always+building." alt="Typing SVG" />
-</a>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Location-Nagpur,%20India-8A2BE2?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-
-<p>
-  <a href="https://www.linkedin.com/in/piyush-sarve-6a7a623b9/">
-    <img src="https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:piyushsarve71@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-4B0082?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/piyushsarve71">
-    <img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=piyushsarve71&label=Profile%20Views&color=8A2BE2&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/piyushsarve71?label=Followers&style=for-the-badge&color=6A0DAD" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/piyushsarve71?label=Stars&style=for-the-badge&color=9370DB" alt="Stars"/>
-</p>
-
-</div>
-
----
-
-### 👨‍💻 About Me
-
-I'm a **student based in Nagpur, India**, passionate about turning ideas into working technology. My core interests lie in **Data Analytics, Web Development, and Deep Learning** — with a growing focus on how AI tools can accelerate real-world engineering.
-
-I actively participate in **hackathons**, where I combine hands-on development with **team leadership and project management** to ship solutions under pressure. I enjoy the full journey — from analyzing a problem, to designing a solution, to shipping something that actually works.
-
-```yaml
-Current Focus:
-  Learning:   Deep Learning, Advanced Web Development
-  Building:   Civic-tech & hackathon-driven projects
-  Exploring:  AI-assisted engineering workflows (Claude, Antigravity)
-  Open To:    Internships, Hackathon Teams, Collaborative Projects
-```
-
----
-
-### 🛠 Tech Stack
-
-<div align="center">
-
-**Languages**
-<br/>
-<img src="https://img.shields.io/badge/Java-6A0DAD?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-4B0082?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/R-8A2BE2?style=flat-square&logo=r&logoColor=white"/>
-<img src="https://img.shields.io/badge/OOP-9370DB?style=flat-square&logo=codeium&logoColor=white"/>
-
-**Data & Analytics**
-<br/>
-<img src="https://img.shields.io/badge/Data%20Analysis-6A0DAD?style=flat-square&logo=googleanalytics&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tableau-4B0082?style=flat-square&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-8A2BE2?style=flat-square&logo=powerbi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel-9370DB?style=flat-square&logo=microsoftexcel&logoColor=white"/>
-
-**Web Development**
-<br/>
-<img src="https://img.shields.io/badge/Front--End%20Development-6A0DAD?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/Web%20Development-4B0082?style=flat-square&logo=css3&logoColor=white"/>
-
-**Tools & Technologies**
-<br/>
-<img src="https://img.shields.io/badge/Git-8A2BE2?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-9370DB?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Claude%20AI-6A0DAD?style=flat-square&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/Antigravity-4B0082?style=flat-square&logo=googlecloud&logoColor=white"/>
-
-</div>
-
----
-
-### 🤝 Core Strengths
-
-<div align="center">
-
-| Domain | Focus |
-|:---|:---|
-| **Team Leadership** | Leading small teams through hackathons and academic projects |
-| **Project Management** | Planning scope, timelines, and task ownership under deadline pressure |
-| **Data Analytics** | Translating raw data into decisions using Tableau, Power BI & Excel |
-| **Web Development** | Building functional front-end interfaces for real-world use cases |
-
-</div>
-
----
-
-### 🚀 Featured Projects
-
-<details>
-<summary><b>🏙️ CiviFix — Civic Issue Reporting Platform</b></summary>
-<br/>
-
-A collaborative hackathon project built to create a **community-centric platform** where citizens can report and track the resolution of civic issues in their area.
-
-| Aspect | Details |
-|:---|:---|
-| **Stack** | Web Development, Front-End Development |
-| **Type** | Team Hackathon Project |
-| **Focus** | Civic-tech, community reporting, issue resolution workflow |
-| **Repository** | [Civic-Fix](https://github.com/piyushsarve71/Civic-Fix) |
-
-Built collaboratively during a hackathon, CiviFix focuses on giving communities a simple, transparent way to flag civic problems and follow their resolution — combining practical front-end development with a real-world social use case.
-
-</details>
-
-<details>
-<summary><b>🔧 Civic-Fix — My Version</b></summary>
-<br/>
-
-A personal refinement and independent iteration of the core CiviFix concept, rebuilt to explore individual improvements to the original hackathon idea.
-
-| Aspect | Details |
-|:---|:---|
-| **Stack** | Web Development |
-| **Type** | Independent / Solo Project |
-| **Focus** | Iterating on and improving an existing product concept |
-| **Repository** | [Civic-Fix-My-Version](https://github.com/piyushsarve71/Civic-Fix-My-Version) |
-
-This version showcases independent problem-solving — taking a team project's foundation and reworking it solo to test different design and implementation choices.
-
-</details>
-
-<details>
-<summary><b>🎓 TechFest — University Tech Event Projects</b></summary>
-<br/>
-
-A repository showcasing technical contributions and projects developed for **university-level technical events**.
-
-| Aspect | Details |
-|:---|:---|
-| **Stack** | Java, Python, Web Development |
-| **Type** | Academic / Event-based |
-| **Focus** | Applied technical problem-solving for tech-fest challenges |
-| **Repository** | [TechFest](https://github.com/piyushsarve71/TechFest) |
-
-A collection of work built for university tech-fest events, reflecting hands-on application of core programming and analytics skills outside the classroom.
-
-</details>
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=piyushsarve71&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8A2BE2&text_color=c9d1d9" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushsarve71&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" width="48%"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=piyushsarve71&theme=radical&hide_border=true&background=0D1117&stroke=8A2BE2&ring=A78BFA&fire=9370DB&currStreakLabel=A78BFA" width="70%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=piyushsarve71&theme=react-dark&bg_color=0d1117&color=A78BFA&line=8A2BE2&point=9370DB&hide_border=true" width="90%"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 📸 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/piyushsarve71/piyushsarve71/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/piyushsarve71/piyushsarve71/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/piyushsarve71/piyushsarve71/output/github-contribution-grid-snake-dark.svg" width="90%"/>
-</picture>
-
-</div>
-
----
-
-### 📫 Connect With Me
-
-<div align="center">
-
-<a href="mailto:piyushsarve71@gmail.com"><img src="https://img.shields.io/badge/Gmail-4B0082?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/piyush-sarve-6a7a623b9/"><img src="https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/piyushsarve71"><img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-</div>
-
----
-
-<div align="center">
-
-<i>"Small consistent steps in code today build the engineer you'll be tomorrow."</i>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-
-</div>
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate snake animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: piyushsarve71
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push output to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
