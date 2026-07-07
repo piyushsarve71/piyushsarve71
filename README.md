@@ -175,7 +175,7 @@ A collection of work built for university tech-fest events, reflecting hands-on 
 
 ### 📸 Contribution Snake
 
-![snake gif](https://github.com/piyushsarve71/piyushsarve71/blob/output/github-contribution-grid-snake.svg)
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/piyushsarve71/piyushsarve71/output/github-contribution-grid-snake-dark.svg?v=2" width="90%"/>
 
 </div>
 
